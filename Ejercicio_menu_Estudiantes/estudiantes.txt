@@ -1,0 +1,18 @@
+Cedula:  176229928
+Nombres: Edwar
+Apellidos: Ramirez
+Fecha de Nacimiento: 29/09/2003
+Numero de Matricula: FR9990
+Carrera: Ingeniera de Software
+
+
+---------------------------
+Cedula:  1004617816
+Nombres: Antonio
+Apellidos: Castillo
+Fecha de Nacimiento: 29/09/2003
+Numero de Matricula: FT0009
+Carrera: Ingieria de Sistemas
+
+
+---------------------------
